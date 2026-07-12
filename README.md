@@ -1,2 +1,15 @@
 # run-nmap-to-termux
-سلام و عرض ادب این ابزار همون کارهای ابزار انمپ عادی را انجام میدهد اما با فضای شیک و خفن تر
+pkg install
+
+pkg upgrade
+
+pkg install nmap
+
+git clone https://github.com/brdyamhrany-debug/run-nmap-to-termux
+
+ls
+
+cd nmap_pro
+
+./menu.sh
+
