@@ -4,7 +4,7 @@ pkg install
 
 pkg upgrade 
 
-pkg install pyton
+pkg install python
 
 pkg install nmap
 
